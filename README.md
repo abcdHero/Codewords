@@ -31,7 +31,7 @@ If you have any feedback, please reach out to us at abcdHero@abcdHero.com
 To run tests, run the following command
 
 ```bash
-  debug n *
+  ./debug.py
 ```
 
 
